@@ -17,6 +17,7 @@ Constraints
 s only contains lowercase English alphabetic letters (i.e., a to z).
 Output Format
 If the final string is empty, print “Empty String”; otherwise, print the final non-reducible string.
+
 Test Case - 1
 Input
 9
@@ -42,6 +43,7 @@ baab → bb
 bb → Empty String
 Thus, we print Empty String.
 
+
 2. Given a file containing strings separated by space, where the first string is “child” and second
 string is “Father”.
 Write a program which finds number of grandchildren for any given string.
@@ -54,6 +56,7 @@ shaw rooney
 mike wayne
 Input : ronaldo
 Output:2
+
 
 3.Write a program that reverses the order of the bits in an unsigned int value. The program should
 input the value from the user and call function reverseBits to print the bits in reverse order. Print the
